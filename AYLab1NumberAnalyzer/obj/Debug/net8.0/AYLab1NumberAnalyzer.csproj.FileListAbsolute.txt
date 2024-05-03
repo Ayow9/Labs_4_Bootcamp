@@ -1,0 +1,15 @@
+C:\learn2code\Labs_4_Bootcamp\AYLab1NumberAnalyzer\bin\Debug\net8.0\AYLab1NumberAnalyzer.exe
+C:\learn2code\Labs_4_Bootcamp\AYLab1NumberAnalyzer\bin\Debug\net8.0\AYLab1NumberAnalyzer.deps.json
+C:\learn2code\Labs_4_Bootcamp\AYLab1NumberAnalyzer\bin\Debug\net8.0\AYLab1NumberAnalyzer.runtimeconfig.json
+C:\learn2code\Labs_4_Bootcamp\AYLab1NumberAnalyzer\bin\Debug\net8.0\AYLab1NumberAnalyzer.dll
+C:\learn2code\Labs_4_Bootcamp\AYLab1NumberAnalyzer\bin\Debug\net8.0\AYLab1NumberAnalyzer.pdb
+C:\learn2code\Labs_4_Bootcamp\AYLab1NumberAnalyzer\obj\Debug\net8.0\AYLab1NumberAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn2code\Labs_4_Bootcamp\AYLab1NumberAnalyzer\obj\Debug\net8.0\AYLab1NumberAnalyzer.AssemblyInfoInputs.cache
+C:\learn2code\Labs_4_Bootcamp\AYLab1NumberAnalyzer\obj\Debug\net8.0\AYLab1NumberAnalyzer.AssemblyInfo.cs
+C:\learn2code\Labs_4_Bootcamp\AYLab1NumberAnalyzer\obj\Debug\net8.0\AYLab1NumberAnalyzer.csproj.CoreCompileInputs.cache
+C:\learn2code\Labs_4_Bootcamp\AYLab1NumberAnalyzer\obj\Debug\net8.0\AYLab1NumberAnalyzer.sourcelink.json
+C:\learn2code\Labs_4_Bootcamp\AYLab1NumberAnalyzer\obj\Debug\net8.0\AYLab1NumberAnalyzer.dll
+C:\learn2code\Labs_4_Bootcamp\AYLab1NumberAnalyzer\obj\Debug\net8.0\refint\AYLab1NumberAnalyzer.dll
+C:\learn2code\Labs_4_Bootcamp\AYLab1NumberAnalyzer\obj\Debug\net8.0\AYLab1NumberAnalyzer.pdb
+C:\learn2code\Labs_4_Bootcamp\AYLab1NumberAnalyzer\obj\Debug\net8.0\AYLab1NumberAnalyzer.genruntimeconfig.cache
+C:\learn2code\Labs_4_Bootcamp\AYLab1NumberAnalyzer\obj\Debug\net8.0\ref\AYLab1NumberAnalyzer.dll

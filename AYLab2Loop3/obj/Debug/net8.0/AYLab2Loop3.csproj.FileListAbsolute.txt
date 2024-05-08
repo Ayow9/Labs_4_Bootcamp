@@ -1,0 +1,15 @@
+C:\learn2code\Labs_4_Bootcamp\AYLab2Loop3\bin\Debug\net8.0\AYLab2Loop3.exe
+C:\learn2code\Labs_4_Bootcamp\AYLab2Loop3\bin\Debug\net8.0\AYLab2Loop3.deps.json
+C:\learn2code\Labs_4_Bootcamp\AYLab2Loop3\bin\Debug\net8.0\AYLab2Loop3.runtimeconfig.json
+C:\learn2code\Labs_4_Bootcamp\AYLab2Loop3\bin\Debug\net8.0\AYLab2Loop3.dll
+C:\learn2code\Labs_4_Bootcamp\AYLab2Loop3\bin\Debug\net8.0\AYLab2Loop3.pdb
+C:\learn2code\Labs_4_Bootcamp\AYLab2Loop3\obj\Debug\net8.0\AYLab2Loop3.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn2code\Labs_4_Bootcamp\AYLab2Loop3\obj\Debug\net8.0\AYLab2Loop3.AssemblyInfoInputs.cache
+C:\learn2code\Labs_4_Bootcamp\AYLab2Loop3\obj\Debug\net8.0\AYLab2Loop3.AssemblyInfo.cs
+C:\learn2code\Labs_4_Bootcamp\AYLab2Loop3\obj\Debug\net8.0\AYLab2Loop3.csproj.CoreCompileInputs.cache
+C:\learn2code\Labs_4_Bootcamp\AYLab2Loop3\obj\Debug\net8.0\AYLab2Loop3.sourcelink.json
+C:\learn2code\Labs_4_Bootcamp\AYLab2Loop3\obj\Debug\net8.0\AYLab2Loop3.dll
+C:\learn2code\Labs_4_Bootcamp\AYLab2Loop3\obj\Debug\net8.0\refint\AYLab2Loop3.dll
+C:\learn2code\Labs_4_Bootcamp\AYLab2Loop3\obj\Debug\net8.0\AYLab2Loop3.pdb
+C:\learn2code\Labs_4_Bootcamp\AYLab2Loop3\obj\Debug\net8.0\AYLab2Loop3.genruntimeconfig.cache
+C:\learn2code\Labs_4_Bootcamp\AYLab2Loop3\obj\Debug\net8.0\ref\AYLab2Loop3.dll

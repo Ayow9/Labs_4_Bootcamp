@@ -1,0 +1,15 @@
+C:\learn2code\Labs_4_Bootcamp\AYBasicStringProcessLab\bin\Debug\net8.0\AYBasicStringProcessLab.exe
+C:\learn2code\Labs_4_Bootcamp\AYBasicStringProcessLab\bin\Debug\net8.0\AYBasicStringProcessLab.deps.json
+C:\learn2code\Labs_4_Bootcamp\AYBasicStringProcessLab\bin\Debug\net8.0\AYBasicStringProcessLab.runtimeconfig.json
+C:\learn2code\Labs_4_Bootcamp\AYBasicStringProcessLab\bin\Debug\net8.0\AYBasicStringProcessLab.dll
+C:\learn2code\Labs_4_Bootcamp\AYBasicStringProcessLab\bin\Debug\net8.0\AYBasicStringProcessLab.pdb
+C:\learn2code\Labs_4_Bootcamp\AYBasicStringProcessLab\obj\Debug\net8.0\AYBasicStringProcessLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn2code\Labs_4_Bootcamp\AYBasicStringProcessLab\obj\Debug\net8.0\AYBasicStringProcessLab.AssemblyInfoInputs.cache
+C:\learn2code\Labs_4_Bootcamp\AYBasicStringProcessLab\obj\Debug\net8.0\AYBasicStringProcessLab.AssemblyInfo.cs
+C:\learn2code\Labs_4_Bootcamp\AYBasicStringProcessLab\obj\Debug\net8.0\AYBasicStringProcessLab.csproj.CoreCompileInputs.cache
+C:\learn2code\Labs_4_Bootcamp\AYBasicStringProcessLab\obj\Debug\net8.0\AYBasicStringProcessLab.sourcelink.json
+C:\learn2code\Labs_4_Bootcamp\AYBasicStringProcessLab\obj\Debug\net8.0\AYBasicStringProcessLab.dll
+C:\learn2code\Labs_4_Bootcamp\AYBasicStringProcessLab\obj\Debug\net8.0\refint\AYBasicStringProcessLab.dll
+C:\learn2code\Labs_4_Bootcamp\AYBasicStringProcessLab\obj\Debug\net8.0\AYBasicStringProcessLab.pdb
+C:\learn2code\Labs_4_Bootcamp\AYBasicStringProcessLab\obj\Debug\net8.0\AYBasicStringProcessLab.genruntimeconfig.cache
+C:\learn2code\Labs_4_Bootcamp\AYBasicStringProcessLab\obj\Debug\net8.0\ref\AYBasicStringProcessLab.dll

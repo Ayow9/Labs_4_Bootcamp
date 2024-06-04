@@ -1,0 +1,15 @@
+C:\learn2code\Labs_4_Bootcamp\CircleGrowsAY\obj\Debug\net8.0\CircleGrowsAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn2code\Labs_4_Bootcamp\CircleGrowsAY\obj\Debug\net8.0\CircleGrowsAY.AssemblyInfoInputs.cache
+C:\learn2code\Labs_4_Bootcamp\CircleGrowsAY\obj\Debug\net8.0\CircleGrowsAY.AssemblyInfo.cs
+C:\learn2code\Labs_4_Bootcamp\CircleGrowsAY\obj\Debug\net8.0\CircleGrowsAY.csproj.CoreCompileInputs.cache
+C:\learn2code\Labs_4_Bootcamp\CircleGrowsAY\obj\Debug\net8.0\CircleGrowsAY.sourcelink.json
+C:\learn2code\Labs_4_Bootcamp\CircleGrowsAY\bin\Debug\net8.0\CircleGrowsAY.exe
+C:\learn2code\Labs_4_Bootcamp\CircleGrowsAY\bin\Debug\net8.0\CircleGrowsAY.deps.json
+C:\learn2code\Labs_4_Bootcamp\CircleGrowsAY\bin\Debug\net8.0\CircleGrowsAY.runtimeconfig.json
+C:\learn2code\Labs_4_Bootcamp\CircleGrowsAY\bin\Debug\net8.0\CircleGrowsAY.dll
+C:\learn2code\Labs_4_Bootcamp\CircleGrowsAY\bin\Debug\net8.0\CircleGrowsAY.pdb
+C:\learn2code\Labs_4_Bootcamp\CircleGrowsAY\obj\Debug\net8.0\CircleGrowsAY.dll
+C:\learn2code\Labs_4_Bootcamp\CircleGrowsAY\obj\Debug\net8.0\refint\CircleGrowsAY.dll
+C:\learn2code\Labs_4_Bootcamp\CircleGrowsAY\obj\Debug\net8.0\CircleGrowsAY.pdb
+C:\learn2code\Labs_4_Bootcamp\CircleGrowsAY\obj\Debug\net8.0\CircleGrowsAY.genruntimeconfig.cache
+C:\learn2code\Labs_4_Bootcamp\CircleGrowsAY\obj\Debug\net8.0\ref\CircleGrowsAY.dll

@@ -1,0 +1,15 @@
+C:\learn2code\Labs_4_Bootcamp\UsedCars\UsedCars\bin\Debug\net8.0\UsedCars.exe
+C:\learn2code\Labs_4_Bootcamp\UsedCars\UsedCars\bin\Debug\net8.0\UsedCars.deps.json
+C:\learn2code\Labs_4_Bootcamp\UsedCars\UsedCars\bin\Debug\net8.0\UsedCars.runtimeconfig.json
+C:\learn2code\Labs_4_Bootcamp\UsedCars\UsedCars\bin\Debug\net8.0\UsedCars.dll
+C:\learn2code\Labs_4_Bootcamp\UsedCars\UsedCars\bin\Debug\net8.0\UsedCars.pdb
+C:\learn2code\Labs_4_Bootcamp\UsedCars\UsedCars\obj\Debug\net8.0\UsedCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn2code\Labs_4_Bootcamp\UsedCars\UsedCars\obj\Debug\net8.0\UsedCars.AssemblyInfoInputs.cache
+C:\learn2code\Labs_4_Bootcamp\UsedCars\UsedCars\obj\Debug\net8.0\UsedCars.AssemblyInfo.cs
+C:\learn2code\Labs_4_Bootcamp\UsedCars\UsedCars\obj\Debug\net8.0\UsedCars.csproj.CoreCompileInputs.cache
+C:\learn2code\Labs_4_Bootcamp\UsedCars\UsedCars\obj\Debug\net8.0\UsedCars.sourcelink.json
+C:\learn2code\Labs_4_Bootcamp\UsedCars\UsedCars\obj\Debug\net8.0\UsedCars.dll
+C:\learn2code\Labs_4_Bootcamp\UsedCars\UsedCars\obj\Debug\net8.0\refint\UsedCars.dll
+C:\learn2code\Labs_4_Bootcamp\UsedCars\UsedCars\obj\Debug\net8.0\UsedCars.pdb
+C:\learn2code\Labs_4_Bootcamp\UsedCars\UsedCars\obj\Debug\net8.0\UsedCars.genruntimeconfig.cache
+C:\learn2code\Labs_4_Bootcamp\UsedCars\UsedCars\obj\Debug\net8.0\ref\UsedCars.dll

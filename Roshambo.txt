@@ -1,0 +1,27 @@
+1. Ask user for name
+2. Instantiate aka create HumanPlayer w/ given user name
+3. Ask user to choose opps
+4. Instantiate the proper class based on their choice
+5. Ask user to choose rock, paper, scissors
+6. GenRoshambo for both opps and player
+7. Compare opps to plauyers choice
+8. Properly figure out winner, loser, tie
+9. Display winner and their choice, ask if they wanna play again 
+
+//******//
+Welcome to Roshambo!
+Wats ur nmae?
+<
+Choose urae opps
+ChefKef, Steve, Jeff
+------
+Type or select the following number:
+1 = Rock, 2 = Paper, 3 = Scissors
+
+(IF INVALID CHOICE)
+"Please make a valid selection"
+------
+Your choice: xxx
+Opps choice: XXX
+(Youre a winar! You lose! Tie!)
+{}{}

@@ -22,21 +22,20 @@ Opps choice: XXX
  *///click here
 using Roshambo;
 
-RockPlayer Steve = null;
 RandomPlayer Jeff = null;
-HumanPlayer hPlay = null;
 Player play = null;
 
 Console.WriteLine($"Welcome to Roshambo!\r\nWhats your name?");
 string uInp = Console.ReadLine();
-Player.ReferenceEquals(play,uInp);
+HumanPlayer hPlay = new HumanPlayer( uInp );
 
-Console.WriteLine($"Hi {play}!\r\nPick an opponet.\r\nSteve (s), Jeff (j)");
+Console.WriteLine($"Hi {uInp}!\r\nPick an opponet.\r\nSteve (s), Jeff (j)");
 string u2Inp = Console.ReadLine();
 if (u2Inp == "s")  //do the same for an if (u2Inp == "j")
 {
-    Console.WriteLine($"Lets play {uInp}!\r\n Your opponet is Steve. Type or select the following number:\r\n1 = Rock, 2 = Paper, 3 = Scissors");
+    RockPlayer Steve = new RockPlayer( uInp );
 
+    Console.WriteLine($"Lets play {uInp}!\r\n Your opponet is {Steve}.\r\n Type or select the following number:\r\n 1 = Rock, 2 = Paper, 3 = Scissors");
 }
 
 

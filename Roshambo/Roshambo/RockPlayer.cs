@@ -3,13 +3,10 @@ namespace Roshambo;
 public class RockPlayer : Player
 {
     //construct
-    public RockPlayer(string name) : base(name)
-    {
-        Name = name;
-    }
+    public RockPlayer(string name) : base(name) { }
     //methods
-    public override RoshamboValue GenerateRoshamo()
+    public override RoshamboOptions GenerateRoshamo()
     {
-        return RoshamboValue.Rock;
+        return RoshamboOptions.Rock;
     }
 }

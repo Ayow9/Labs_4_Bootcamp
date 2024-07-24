@@ -1,6 +1,6 @@
 ﻿
 namespace Roshambo;
-public enum RoshamboValue
+public enum RoshamboOptions
 {
     Rock = 1 ,
     Paper = 2,

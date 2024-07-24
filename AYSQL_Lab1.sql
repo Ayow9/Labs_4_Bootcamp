@@ -68,12 +68,10 @@ FROM Orders
 WHERE OrderID = 10290;
 
 --12 Join the orders table to the customers table.
-SELECT TOP 3 * FROM Orders
-SELECT TOP 3 * FROM Customers;
 
-SELECT Orders.OrderID, Customers.CompanyName
+SELECT *
 FROM Orders
-FULL OUTER JOIN Customers ON Customers.CustomerID=Orders.CustomerID
+JOIN Customers ON Orders.CustomerID = Customers.CustomerID
 ORDER BY Orders.CustomerID;
 
 --13 Get employees’ firstname for all employees who report to no one.

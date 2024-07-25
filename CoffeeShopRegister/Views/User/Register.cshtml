@@ -1,0 +1,37 @@
+﻿<!--STEP 3: Right click on created folder under "Views" > View, then create a new cshtml file same name as method in Controller class -->
+
+@model User //make sure to use @ to reference controller class!
+<h2>Register</h2>
+
+<form asp-action ="RegisterUser" method="post"> <!--we're calling our User method by the same  name-->
+    <!--put all ya stuff here!-->
+    <div class="form-group">
+        <label asp-for ="FirstName"></label>
+        <input asp-for = "FirstName" class=" = "form-cotntrol" />
+        <span asp-validation-for="FirstName" class="text-danger"></span> <!--we're BINDING our methods using asp as method to ref to our atModel name-->
+    </div>
+
+    <div class="form-group">
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName" class=" = " form-cotntrol" />
+        <span asp-validation-for="LastName" class="text-danger"></span> 
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" type="email" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" class="form-control" type="password" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn-primary">Register 4 Delicious Coffee!</button> <!--SUBMIT BUTTON MUST BE IN FORM TAG ALWAYS!!!!!-->
+</form>
+@section Scripts { 
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

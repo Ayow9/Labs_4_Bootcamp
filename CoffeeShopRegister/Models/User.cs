@@ -4,6 +4,8 @@ namespace CoffeeShopRegister.Models;
 
 public class User // STEP 1: MAKE OUR CLASS FOR OUR CONTROLLER 
 {
+    public int UserId { get; set; } //PRIMARY KEY FOR TABLE IN SQL Unique id for our row!! 
+
     [Required(ErrorMessage = "Valid First Name plz")] //VV--these things in the [] brackets are attributes that are validators for the property below it--VV
     public string FirstName { get; set; }
 

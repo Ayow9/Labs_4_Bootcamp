@@ -1,0 +1,9 @@
+﻿@model List<Animals>
+
+@foreach(var animal in Model)
+{
+<p>@animal.Name</p>
+<p>@animal.Breed</p>
+<img src="@animal.ImgName">
+}
+

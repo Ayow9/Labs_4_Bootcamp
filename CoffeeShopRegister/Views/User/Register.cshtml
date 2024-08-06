@@ -3,7 +3,7 @@
 @model User //make sure to use @ to reference controller class!
 <h2>Register</h2>
 
-<form asp-action ="RegisterUser" method="post"> <!--we're calling our User method by the same  name-->
+<form asp-action ="RegisterUser" method="post"> <!--this bit of code is making a post request to store it in RegisterUser db method under "UserController"-->
     <!--put all ya stuff here!-->
     <div class="form-group">
         <label asp-for ="FirstName"></label>

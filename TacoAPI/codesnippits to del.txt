@@ -1,0 +1,13 @@
+for tacocontroller
+
+[HttpGet]
+
+public IActionResult GetAllTacos([FromQuery] bool? isSoftShell)
+{
+
+}
+
+//for error code to return
+return CreatedAtAction(nameof(GetItemById), new { id = newItemId }, itemDto);
+return StatusCode(StatusCodes.201)
+
